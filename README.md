@@ -1,2 +1,1 @@
 # berang
-contoh
